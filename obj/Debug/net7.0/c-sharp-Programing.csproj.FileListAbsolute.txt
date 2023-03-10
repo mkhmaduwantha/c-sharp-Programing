@@ -1,0 +1,15 @@
+/Users/hashanm/Documents/Repos/C#-Programming/c-sharp-Programing/bin/Debug/net7.0/c-sharp-Programing
+/Users/hashanm/Documents/Repos/C#-Programming/c-sharp-Programing/bin/Debug/net7.0/c-sharp-Programing.deps.json
+/Users/hashanm/Documents/Repos/C#-Programming/c-sharp-Programing/bin/Debug/net7.0/c-sharp-Programing.runtimeconfig.json
+/Users/hashanm/Documents/Repos/C#-Programming/c-sharp-Programing/bin/Debug/net7.0/c-sharp-Programing.dll
+/Users/hashanm/Documents/Repos/C#-Programming/c-sharp-Programing/bin/Debug/net7.0/c-sharp-Programing.pdb
+/Users/hashanm/Documents/Repos/C#-Programming/c-sharp-Programing/obj/Debug/net7.0/c-sharp-Programing.csproj.AssemblyReference.cache
+/Users/hashanm/Documents/Repos/C#-Programming/c-sharp-Programing/obj/Debug/net7.0/c-sharp-Programing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hashanm/Documents/Repos/C#-Programming/c-sharp-Programing/obj/Debug/net7.0/c-sharp-Programing.AssemblyInfoInputs.cache
+/Users/hashanm/Documents/Repos/C#-Programming/c-sharp-Programing/obj/Debug/net7.0/c-sharp-Programing.AssemblyInfo.cs
+/Users/hashanm/Documents/Repos/C#-Programming/c-sharp-Programing/obj/Debug/net7.0/c-sharp-Programing.csproj.CoreCompileInputs.cache
+/Users/hashanm/Documents/Repos/C#-Programming/c-sharp-Programing/obj/Debug/net7.0/c-sharp-Programing.dll
+/Users/hashanm/Documents/Repos/C#-Programming/c-sharp-Programing/obj/Debug/net7.0/refint/c-sharp-Programing.dll
+/Users/hashanm/Documents/Repos/C#-Programming/c-sharp-Programing/obj/Debug/net7.0/c-sharp-Programing.pdb
+/Users/hashanm/Documents/Repos/C#-Programming/c-sharp-Programing/obj/Debug/net7.0/c-sharp-Programing.genruntimeconfig.cache
+/Users/hashanm/Documents/Repos/C#-Programming/c-sharp-Programing/obj/Debug/net7.0/ref/c-sharp-Programing.dll
